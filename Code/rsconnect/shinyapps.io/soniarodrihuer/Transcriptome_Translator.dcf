@@ -1,0 +1,13 @@
+name: Transcriptome_Translator
+title: Transcriptome_Translator
+username: soniarodrihuer
+account: soniarodrihuer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13185624
+bundleId: 9293094
+url: https://soniarodrihuer.shinyapps.io/Transcriptome_Translator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Function_code_Transcriptome_Translation.R|Transcriptome_Translator_from_cDNA.html|Transcriptome_Translator_from_cDNA.Rmd

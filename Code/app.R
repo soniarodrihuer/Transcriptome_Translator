@@ -80,8 +80,8 @@ ui <- fluidPage(
              h4(strong("Process behind:")),
              h6(strong("1. Make a table with the sequences with the original labels")),
              p("First, you are going to upload a FASTA file with the sequences (whether they are mRNA or cDNA). 
-                            In this initial step, the FASTA file is converted into a table to facilitate the translation process in the following steps.
-               You can find a sample here."),
+                            In this initial step, the FASTA file is converted into a table to facilitate the translation process in the following steps."),
+              HTML("<p>You can find a sample <a href='https://github.com/soniarodrihuer/Transcriptome_Translator'>here</a>!</p>"),
             
              downloadButton("downloadFile", "Download here a Sample"),
              
